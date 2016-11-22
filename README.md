@@ -1,12 +1,8 @@
 # amul-mehta.github.io
 Personal Site
+An interactive site for showcasing the undertaken projects. 
 
-- **Initial version** 
 
-What to Expect in the coming versions:
-- Link to Résumé
-- Links to the projects
-- More improved scrolling
-- You say..
+
 
  
