@@ -1,8 +1,4 @@
-/*
-Theme Name: IAMX
-Author: Ahmed Faruk
-Author URL: farukahmed.com
-*/
+
 
 /*
     = Preloader
@@ -15,9 +11,7 @@ Author URL: farukahmed.com
     = More skill
     = Shuffle
     = Magnific Popup
-    = Vidio auto play
     = Fit Vids
-    = Google Map
 
 */
 
